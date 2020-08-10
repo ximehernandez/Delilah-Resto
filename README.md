@@ -45,4 +45,4 @@ Abrir el archivo en <code>/server/server.js</code> desde node.
 Testear los endpoints provistos desde postman para poder hacer uso de la API y base de datos generadas.
 (Asegurarse de seleccionar el entorno de desarrollo Delilah Resto para poder acceder a las variables globales)
 
-<a href="https://www.getpostman.com/collections/6d4104f51cc45f87493c" rel="nofollow">Colección de Postman</a>
+<a href="https://galactic-flare-377739.postman.co/me/collections?view=links" rel="nofollow">Colección de Postman</a>
